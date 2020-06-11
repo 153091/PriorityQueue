@@ -1,3 +1,9 @@
+/**  %java MaxPQ.java < input.txt
+ Note: MaxPQ.java uses unchecked or unsafe operations.
+ Note: Recompile with -Xlint:unchecked for details.
+ Q X P (6 left on pq)
+ */
+
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
 
